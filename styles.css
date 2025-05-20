@@ -1,0 +1,15 @@
+body{
+    font-family: "Roboto";
+    background-color: black;
+}
+.card{
+    width: 400px;
+    height: 650px;
+    background: white;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.post-image img{
+    width: 100px;
+    height: auto;
+}
